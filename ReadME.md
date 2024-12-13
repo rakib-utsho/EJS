@@ -5,3 +5,6 @@ EJS (Embedded Javascript Templates) is a simple templating language that lets yo
 
 #### Command for install EJS
     "$- npm i ejs"
+
+#### Interpolation Syntax
+Interpolation refers to "embedding expressions" into marked up text 
