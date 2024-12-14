@@ -1,0 +1,46 @@
+{
+    "cats" : {
+        "name": "cats",
+        "followers": 25000,
+        "following": 5,
+        "posts": [
+            {
+                "image": "https://unsplash.com/photos/shallow-focus-photography-of-white-and-brown-cat-GtwiBmtJvaU",
+                "likes": 200,
+                "comments": 17
+            },
+            {
+                "image": "https://unsplash.com/photos/brown-tabby-cat-on-white-stairs-mJaD10XeD7w",
+                "likes": 312,
+                "comments": 19
+            },
+            {
+                "image": "https://unsplash.com/photos/brown-tabby-kitten-on-white-textile-2KZfAwi-0W4",
+                "likes": 1065,
+                "comments": 200
+            }
+        ]
+    },
+    "dogs": {
+        "name": "dogs",
+        "followers": 75000,
+        "following": 150,
+        "posts": [
+            {
+                "image": "https://unsplash.com/photos/a-black-and-white-dog-is-looking-at-the-camera-QIAYomg2lXM",
+                "likes":3000,
+                "comments":41
+            },
+            {
+                "image": "https://unsplash.com/photos/a-small-white-dog-standing-next-to-a-tree-KnSYF3b4KcM",
+                "likes":2500,
+                "comments":32
+            },
+            {
+                "image": "https://unsplash.com/photos/a-dog-sitting-on-the-ground-with-its-mouth-open-iP1ngIEbJh0",
+                "likes":500,
+                "comments":6
+            }
+        ]
+    }
+}

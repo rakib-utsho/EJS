@@ -12,9 +12,11 @@ app.get("/", (req, res) => {
 });
 
 app.get("/ig/:username", (req, res) =>{
-    let followers = ["admin", "bob", "steve", "abc"];
-    let { username } = req.params;
-    res.render("instagram.ejs", {username, followers});
+    let {username} = req.params;
+    const instaData = require("./data.json");
+    const data = instaData[username];
+    res.render("instagram.ejs", { data });
+
 });
 
 app.get("/rolldice", (req, res) =>{
