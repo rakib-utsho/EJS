@@ -5,17 +5,17 @@
         "following": 5,
         "posts": [
             {
-                "image": "https://unsplash.com/photos/shallow-focus-photography-of-white-and-brown-cat-GtwiBmtJvaU",
+                "image": "https://plus.unsplash.com/premium_photo-1667030474693-6d0632f97029?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0fGVufDB8fDB8fHww",
                 "likes": 200,
                 "comments": 17
             },
             {
-                "image": "https://unsplash.com/photos/brown-tabby-cat-on-white-stairs-mJaD10XeD7w",
+                "image": "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D",
                 "likes": 312,
                 "comments": 19
             },
             {
-                "image": "https://unsplash.com/photos/brown-tabby-kitten-on-white-textile-2KZfAwi-0W4",
+                "image": "https://www.purina.co.uk/sites/default/files/2020-12/Understanding%20Your%20Cat%27s%20Body%20LanguageTEASER.jpg",
                 "likes": 1065,
                 "comments": 200
             }
@@ -27,17 +27,17 @@
         "following": 150,
         "posts": [
             {
-                "image": "https://unsplash.com/photos/a-black-and-white-dog-is-looking-at-the-camera-QIAYomg2lXM",
+                "image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
                 "likes":3000,
                 "comments":41
             },
             {
-                "image": "https://unsplash.com/photos/a-small-white-dog-standing-next-to-a-tree-KnSYF3b4KcM",
+                "image": "https://images.pexels.com/photos/1490908/pexels-photo-1490908.jpeg?cs=srgb&dl=pexels-svetozar-milashevich-99573-1490908.jpg&fm=jpg",
                 "likes":2500,
                 "comments":32
             },
             {
-                "image": "https://unsplash.com/photos/a-dog-sitting-on-the-ground-with-its-mouth-open-iP1ngIEbJh0",
+                "image": "https://images.unsplash.com/photo-1507145569372-d69bae8bc9a0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRvZyUyMGdhcmRlbnxlbnwwfHwwfHx8MA%3D%3D",
                 "likes":500,
                 "comments":6
             }
